@@ -19,12 +19,18 @@ In the code you will find:
 - Libraries: `pandas`, `scikit-learn`
 
 ## Getting Started
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/sajjal-4/breast-cancer-detection.git
 cd breast-cancer-detection
 ```
+2. Change your directory to the project folder
+
+3. Run the Jupyter Notebook
+```bash
+  jupyter notebook SONAR_Rock_vs_Mine_Prediction_via_Logistic_Regression.ipynb
+ ```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
