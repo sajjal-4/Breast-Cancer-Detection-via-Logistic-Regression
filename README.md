@@ -15,11 +15,11 @@ In the code you will find:
 - [License](#license)
 
 ## Requirements
-- Python 3.x
+- Python 
 - Libraries: `pandas`, `scikit-learn`
 
 ## Getting Started
-1. Clone the repository to your local machine:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/sajjal-4/breast-cancer-detection.git
@@ -27,7 +27,7 @@ cd breast-cancer-detection
 ```
 2. Change your directory to the project folder
 
-3. Run the Jupyter Notebook
+3. After you have installed the necessary libraries run the Jupyter Notebook
 ```bash
   jupyter notebook Breast-Cancer-Detection-via-Logistic-Regression.ipynb
  ```
