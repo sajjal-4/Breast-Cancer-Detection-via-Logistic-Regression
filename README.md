@@ -29,7 +29,7 @@ cd breast-cancer-detection
 
 3. Run the Jupyter Notebook
 ```bash
-  jupyter notebook SONAR_Rock_vs_Mine_Prediction_via_Logistic_Regression.ipynb
+  jupyter notebook Breast-Cancer-Detection-via-Logistic-Regression.ipynb
  ```
 
 ## License
